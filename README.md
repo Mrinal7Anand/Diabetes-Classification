@@ -1,5 +1,5 @@
 # Diabetes-Classification
-Predict if a person is suffering from diabetes using Random Forset classifier.
+Predict if a person is suffering from diabetes using Random Forest classifier.
 
 ## Working of code
 1. Analysis of Pima Indians Diabetes Dataset which consist of 576 instances and 8 features.
